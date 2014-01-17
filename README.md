@@ -1,7 +1,6 @@
 DirectoryImageReader-for-Dashing
 ================================
 
-<h1>Description</h1>
 
 This widget is used to display a collection of images from a directory. This is used for your sinatra based dashing application. 
 
